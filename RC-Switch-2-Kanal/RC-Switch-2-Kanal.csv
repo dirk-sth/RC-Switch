@@ -1,0 +1,13 @@
+Ref;Qnty;Value;Cmp name;Footprint;Description;Vendor;DNP
+C1, C2;2;100nF;C_Small;Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm;Unpolarized capacitor, small symbol;;
+D1, D2, D3;3;1N4001;1N4001;Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal;50V 1A General Purpose Rectifier Diode, DO-41;;
+D4, D5;2;LED;LED;LED_THT:LED_D3.0mm;Light emitting diode;;
+IC1;1;ATtiny85-20P;ATtiny85-20P;Package_DIP:DIP-8_W7.62mm;20MHz, 8kB Flash, 512B SRAM, 512B EEPROM, debugWIRE, DIP-8;;
+J1;1;Conn_01x03_Pin;Conn_01x03_Pin;Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical;Generic connector, single row, 01x03, script generated;;
+J2;1;~;Conn_01x04_Pin;Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical;Generic connector, single row, 01x04, script generated;;
+J3, J4;2;Screw_Terminal_01x03;Screw_Terminal_01x03;TerminalBlock:TerminalBlock_bornier-3_P5.08mm;Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/);;
+K1, K2;2;FTR-F1C;Fujitsu_FTR-F1C;Relay_THT:Relay_DPDT_Fujitsu_FTR-F1C;Fujitsu Low Profile Power Relay;;
+R1;1;10k;R;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;Resistor;;
+R2, R4, R6;3;1k;R;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;Resistor;;
+R3, R5;2;680;R;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal;Resistor;;
+T1, T2;2;BC547;BC547;Package_TO_SOT_THT:TO-92L_HandSolder;0.1A Ic, 45V Vce, Small Signal NPN Transistor, TO-92;;
